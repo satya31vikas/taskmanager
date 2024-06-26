@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Getayawkal Tamrat",
+  "author": "satya vikas voruganti",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
