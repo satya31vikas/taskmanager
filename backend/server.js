@@ -9,7 +9,7 @@ mongoDB()
 const app = express()
 
 app.use(cors({
-  origin: ["https://task-manager-client-blush.vercel.app"],
+  origin: ["https://taskmanager-satyavikas.vercel.app"],
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true
 }))
